@@ -1,0 +1,14 @@
+www.mmotutkunlari.com | Whistle
+Metin2 Sıfırdan Altyapı Hazırlama rehberinde hazırlanan client source dosyalarıdır.
+Adım adım nasıl hazırlandığını öğrenmek istiyorsanız rehber serimizi izleyebilirsiniz.
+https://www.mmotutkunlari.com/konu/metin2-sifirdan-altyapi-server-files-hazirlama-rehberi.7141/
+
+Kaynak kodu build etme klavuzu.
+İlk önce Extern/cryptopp/cryptlib.sln dosyasını visual studio 2019 ile açın.
+Daha sonra Release (MT) ve Debug (MTd) olarak build ediniz.
+
+Build işlemleri tamamlandıktan sonra Client/Metin2Client_VC90.sln dosyasını visual studio 2019 ile açın.
+Açıldıktan sonra projeyi build ediniz.
+
+Aklınıza takılan sorular olursa sitemize gelip sormaktan çekinmeyiniz.
+www.mmotutkunlari.com | Whistle
